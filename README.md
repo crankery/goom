@@ -6,7 +6,7 @@ This is mainly a re-layout of [Yves Usson's](http://yusynth.net/) [YuSynth MiniM
 
 The original design was for a 5U modular synth because that's what Yves was building. You can still [buy the YuSynth PCB](https://www.soundtronics.co.uk/yusynth-diy-synth/) and adapt it to Eurorack power and figure out how to attach it to a front panel but it's really designed to be a MOTM module. 
 
-This used three matched pairs of [BC547C NPN transistors](https://github.com/crankery/goom/blob/main/Documents/BC547.pdf), a [BC557C PNP transistor](Documents/BC557.pdf), a [TL072 op-amp](Documents/tl072h.pdf) and two [CA3046N transistor arrays](Documents/CA3046N.pdf). Of these components, the CA3056 and TL072 are still readily available. There's a clear substition for the transistors as well as a possible better option. The original design was for $\pm15V$; Yves suggests some resistor value changes for Eurorack's $\pm12V$ power. Matching transistors is still possible in this day and age but I felt like it was a pain so I decided to try out another option.
+This used three matched pairs of [BC547C NPN transistors](Documents/BC547.pdf), a [BC557C PNP transistor](Documents/BC557.pdf), a [TL072 op-amp](Documents/tl072h.pdf) and two [CA3046N transistor arrays](Documents/CA3046N.pdf). Of these components, the CA3056 and TL072 are still readily available. There's a clear substition for the transistors as well as a possible better option. The original design was for $\pm15V$; Yves suggests some resistor value changes for Eurorack's $\pm12V$ power. Matching transistors is still possible in this day and age but I felt like it was a pain so I decided to try out another option.
 
 ## Changes from YuSynth Design
 
