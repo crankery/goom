@@ -27,7 +27,7 @@ The potentiometers used are Alpha RD901F style 9mm vertical PCB mount with 6.35m
 
 ## Parts Sourcing
 
-Most of the hardware and the discrete components were obtained from [Tayda](https://www.taydaelectronics.com/). The AS394 ICs are from [Cabintech](https://cabintechglobal.com/). The CA3056 and TL072 ICs came from AliExpress.
+Most of the hardware and the discrete components were obtained from [Tayda](https://www.taydaelectronics.com/). The AS3046 & AS394 ICs are from [Cabintech](https://cabintechglobal.com/). The TL072 ICs were from either Mouser or Digi-key.
 
 # Design
 
